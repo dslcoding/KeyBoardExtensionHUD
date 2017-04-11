@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>DSLFramwork.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>DSLHUDTools.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>DSLKeyBoard.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>KeyBoardFramework.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8531C3DA1E9CB3EF001E3E43</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8531C3EC1E9CB41F001E3E43</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8531C4021E9CBA03001E3E43</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8531C4171E9CBB15001E3E43</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>85BBD0CB1E9B242F00E2D05C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
